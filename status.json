@@ -1,7 +1,8 @@
 {
-  "online": false,
-  "message": "Error",
+  "online": true,
+  "message": "System OK",
   "minVersion": "1.0.0",
   "latestVersion": "1.1.0",
-  "updateUrl": "cia bus link i update"
+  "updateUrl": "https://.../GoodApp-1.1.0.zip",
+  "updateType": "zip"
 }
