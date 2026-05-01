@@ -1,7 +1,7 @@
 {
   "online": true,
   "message": "TST",
-  "minVersion": "1.3.0",
+  "minVersion": "1.0.0",
   "latestVersion": "1.3.0",
   "updateUrl": "http://github.com/fiu458/AppControl/releases/download/v1.2.0/goodapp_update.zip",
   "updateType": "zip"
