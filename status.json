@@ -1,8 +1,8 @@
 {
   "online": true,
   "message": "",
-  "minVersion": "1.1.0",
-  "latestVersion": "1.2.0",
-  "updateUrl": "https://github.com/fiu458/GoodAppStatus/releases/download/v1.2.0/GoodApp.Setup.exe",
+  "minVersion": "1.2.0",
+  "latestVersion": "1.3.0",
+  "updateUrl": "https://github.com/fiu458/GoodAppStatus/releases/download/v1.3.0/GoodApp.Setup.exe",
   "updateType": "installer"
 }
